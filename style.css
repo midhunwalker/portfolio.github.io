@@ -1,0 +1,100 @@
+/* Reset default margin and padding */
+
+* {
+
+  margin: 0;
+
+  padding: 0;
+
+}
+
+body {
+
+  font-family: Arial, sans-serif;
+
+  line-height: 1.6;
+
+}
+
+header {
+
+  background: #333;
+
+  color: #fff;
+
+  padding: 20px;
+
+}
+
+header nav ul {
+
+  list-style: none;
+
+}
+
+header nav ul li {
+
+  display: inline;
+
+  margin-right: 10px;
+
+}
+
+header nav ul li a {
+
+  color: #fff;
+
+  text-decoration: none;
+
+}
+
+section {
+
+  padding: 50px;
+
+}
+
+#about {
+
+  background: #f4f4f4;
+
+}
+
+#projects {
+
+  background: #e4e4e4;
+
+}
+
+.project {
+
+  margin-bottom: 20px;
+
+}
+
+button {
+
+  background: #333;
+
+  color: #fff;
+
+  padding: 10px 20px;
+
+  border: none;
+
+  cursor: pointer;
+
+}
+
+footer {
+
+  background: #333;
+
+  color: #fff;
+
+  padding: 20px;
+
+  text-align: center;
+
+}
+
